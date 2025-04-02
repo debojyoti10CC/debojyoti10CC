@@ -12,7 +12,7 @@
 - 💡 Building innovative **hardware and software solutions** for real-world problems
 - 🌱 Learning **Data Science, Python, and AI Engineering**
 - 🎯 Goal: **Developing AI/ML-powered autonomous systems for global impact**
-- 📫 Reach me at: **[Your Email] | [Your LinkedIn]**
+- 📫 Reach me at: **[debojyotidm4@gmail.com] | [Your LinkedIn]**
 
 ---
 
@@ -56,12 +56,12 @@
 ### 🏆 Achievements
 - 🚀 **Ranked 35th out of 2000+ teams** at **DevFest AI 2024**
 - 🤝 **Participated in hackathons and project exhibitions at IIT & IEM**
-- 🌍 **Founded IEM Robo Club** to innovate in robotics and automation
+
 
 ---
 
 ### 🛠️ Current Projects
-- 🔬 **Autonomous Underwater Vehicle (AUV) Research**
+
 - 🌱 **Smart Agriculture AI Platform**
 - 🚑 **Hospital Ambulance GPS Monitoring System**
 - 🤖 **AI-Powered Industrial Automation & Robotics**
