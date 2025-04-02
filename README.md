@@ -12,7 +12,7 @@
 - 💡 Building innovative **hardware and software solutions** for real-world problems
 - 🌱 Learning **Data Science, Python, and AI Engineering**
 - 🎯 Goal: **Developing AI/ML-powered autonomous systems for global impact**
-- 📫 Reach me at: **[debojyotidm4@gmail.com] | [Your LinkedIn]**
+- 📫 Reach me at: **[debojyotidm4@gmail.com] | [Debojyoti De Majumder]**
 
 ---
 
@@ -67,6 +67,7 @@
 - 🤖 **AI-Powered Industrial Automation & Robotics**
 
 ---
+![Snake animation](https://github.com/debojyoti10CC/debojyoti10CC/blob/output/github-contribution-grid-snake.svg)
 
 ### 🐍 GitHub Contribution Graph
 <img src="https://raw.githubusercontent.com/debojyoti10CC/debojyoti10CC/output/snake.svg" alt="Snake animation" />
