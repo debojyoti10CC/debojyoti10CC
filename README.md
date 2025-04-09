@@ -67,7 +67,3 @@
 - 🤖 **AI-Powered Industrial Automation & Robotics**
 
 ---
-![Snake animation](https://github.com/debojyoti10CC/debojyoti10CC/blob/output/github-contribution-grid-snake.svg)
-
-### 🐍 GitHub Contribution Graph
-<img src="https://raw.githubusercontent.com/debojyoti10CC/debojyoti10CC/output/snake.svg" alt="Snake animation" />
