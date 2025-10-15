@@ -54,16 +54,11 @@
 ---
 
 ### 🏆 Achievements
-- 🚀 **Ranked 35th out of 2000+ teams** at **DevFest AI 2024**
-- 🤝 **Participated in hackathons and project exhibitions at IIT & IEM**
+-  **Ranked 35th out of 2000+ teams** at **DevFest AI 2024**
+-  **Participated in hackathons and project exhibitions at IIT & IEM**
 
 
 ---
 
-### 🛠️ Current Projects
-
-- 🌱 **Smart Agriculture AI Platform**
-- 🚑 **Hospital Ambulance GPS Monitoring System**
-- 🤖 **AI-Powered Industrial Automation & Robotics**
 
 ---
