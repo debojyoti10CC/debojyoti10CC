@@ -53,6 +53,7 @@
 ### 🏆 Achievements & Leadership
 * **Hackathons Success:**
     * **Most Innovative** award at Hack Synthesis 2.0.
+    * **1st Runner up** award at ICYIM 2025.
     * **Ranked 35th/2000+** teams at DevFest AI 2024.
     * Finalist at Kshitij IIT Kharagpur.
     * Participant in Algorand Buildstation, Team1 Avalanche, and more.
