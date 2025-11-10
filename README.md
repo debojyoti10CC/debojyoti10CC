@@ -11,31 +11,31 @@
 ---
 
 ### 📌 About Me
-- [cite_start]💡 Tech enthusiast with proven experience in **AI, robotics, Web3, and full-stack development**[cite: 4].
-- [cite_start]🎯 Known for being highly **dedicated and work-driven** in building impactful, future-ready solutions[cite: 5].
+- 💡 Tech enthusiast with proven experience in **AI, robotics, Web3, and full-stack development**.
+- 🎯 Known for being highly **dedicated and work-driven** in building impactful, future-ready solutions.
 - 💻 Currently working on **AI-driven Crime Detection System, AgroTech AI Platform, and Autonomous Robotics**.
 - 🤖 Passionate about **AI, Robotics, and IoT-integrated Smart Solutions**.
-- [cite_start]🏆 Proven **hackathons performer and event organizer** with leadership experience[cite: 5].
+- 🏆 Proven **hackathons performer and event organizer** with leadership experience.
 
 ---
 
 ### 💻 Key Projects
 | Project Name | Technology Focus | Description |
 | :--- | :--- | :--- |
-| **Mindpal** | VR, Cognitive Training, AI | [cite_start]An immersive VR platform for **cognitive training, stress relief, and mental wellness** using gamified simulations and neurofeedback environments[cite: 23]. |
-| **Xencruit** | AI, Computer Vision, NLP | [cite_start]An AI-driven platform for **real-time interview analysis** that evaluates facial expressions, speech tone, engagement, and confidence[cite: 26]. |
-| **AlgotimeLock** | Web3, Algorand Smart Contract | [cite_start]A **trustless freelance escrow vault on Algorand** where funds unlock only after project completion or arbiter approval[cite: 29]. |
+| **Mindpal** | VR, Cognitive Training, AI | An immersive VR platform for **cognitive training, stress relief, and mental wellness** using gamified simulations and neurofeedback environments. |
+| **Xencruit** | AI, Computer Vision, NLP | An AI-driven platform for **real-time interview analysis** that evaluates facial expressions, speech tone, engagement, and confidence. |
+| **AlgotimeLock** | Web3, Algorand Smart Contract | A **trustless freelance escrow vault on Algorand** where funds unlock only after project completion or arbiter approval. |
 
 ---
 
 ### 🛠️ Technologies & Skills
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Languages** | [cite_start]C++, C, Python, Javascript, React JS, Next JS, Mongo DB, SQL [cite: 37] |
-| **AI/ML & Data** | [cite_start]Jupyter Notebook, Google Colab, Matlab, Power BI [cite: 38] |
-| **Web3 & Cloud** | [cite_start]Firebase, Docker, Google Cloud, Metamask, Core Wallet, MCP [cite: 38] |
-| **Robotics/IoT**| [cite_start]Raspberry Pi [cite: 38] |
-| **Version Control** | [cite_start]Git, Github [cite: 39] |
+| **Languages** | C++, C, Python, Javascript, React JS, Next JS, Mongo DB, SQL |
+| **AI/ML & Data** | Jupyter Notebook, Google Colab, Matlab, Power BI |
+| **Web3 & Cloud** | Firebase, Docker, Google Cloud, Metamask, Core Wallet, MCP |
+| **Robotics/IoT**| Raspberry Pi |
+| **Version Control** | Git, Github |
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
@@ -52,15 +52,15 @@
 
 ### 🏆 Achievements & Leadership
 * **Hackathons Success:**
-    * [cite_start]**Most Innovative** award at Hack Synthesis 2.0[cite: 32].
-    * [cite_start]**Ranked 35th/2000+** teams at DevFest AI 2024[cite: 32].
-    * [cite_start]Finalist at Kshitij IIT Kharagpur[cite: 32].
-    * [cite_start]Participant in Algorand Buildstation, Team1 Avalanche, and more[cite: 32].
+    * **Most Innovative** award at Hack Synthesis 2.0.
+    * **Ranked 35th/2000+** teams at DevFest AI 2024.
+    * Finalist at Kshitij IIT Kharagpur.
+    * Participant in Algorand Buildstation, Team1 Avalanche, and more.
 * **Leadership Roles:**
-    * [cite_start]Organizer for Smart Make-A-Thon[cite: 33].
-    * [cite_start]Core Team member for Drone Development Challenge & GDG 2025-26[cite: 33].
-    * [cite_start]Content Lead at Algozenith IEM and Website Creator for IEM Comicverse[cite: 33].
-* [cite_start]**Contributions & Exhibitions:** Active contributor to GSSOC [cite: 34][cite_start], participant in IIT Tech Exhibition [cite: 34][cite_start], and rated highly (3.9/5) at IDE Bootcamp Ranchi[cite: 34].
+    * Organizer for Smart Make-A-Thon.
+    * Core Team member for Drone Development Challenge & GDG 2025-26.
+    * Content Lead at Algozenith IEM and Website Creator for IEM Comicverse.
+* **Contributions & Exhibitions:** Active contributor to GSSOC, participant in IIT Tech Exhibition, and rated highly (3.9/5) at IDE Bootcamp Ranchi.
 
 ---
 
@@ -75,10 +75,10 @@
 ### 🌎 Connect with Me
 | Platform | Link |
 | :--- | :--- |
-| **LinkedIn** | [cite_start][linkedin.com/in/Debojyoti De Majumder](https://linkedin.com/in/Debojyoti De Majumder) [cite: 3] |
-| **Portfolio** | [cite_start][debojyotidmdev.vercel.app](https://debojyotidmdev.vercel.app) [cite: 3] |
-| **Email** | [cite_start][debojyotidm4@gmail.com](mailto:debojyotidm4@gmail.com) [cite: 3] |
-| **GitHub** | [cite_start][github.com/debojyoti10CC](https://github.com/debojyoti10CC) [cite: 3] |
+| **LinkedIn** | [linkedin.com/in/Debojyoti De Majumder](https://linkedin.com/in/Debojyoti De Majumder) |
+| **Portfolio** | [debojyotidmdev.vercel.app](https://debojyotidmdev.vercel.app) |
+| **Email** | [debojyotidm4@gmail.com](mailto:debojyotidm4@gmail.com) |
+| **GitHub** | [github.com/debojyoti10CC](https://github.com/debojyoti10CC) |
 <div align="left">
   <a href="https://linkedin.com/in/Debojyoti De Majumder">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
