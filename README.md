@@ -76,7 +76,7 @@
 ### 🌎 Connect with Me
 | Platform | Link |
 | :--- | :--- |
-| **LinkedIn** | [Debojyoti De Majumder](https://linkedin.com/in/Debojyoti De Majumder) |
+| **LinkedIn** | [Debojyoti De Majumder](https://www.linkedin.com/in/debojyoti-de-majumder-48052b30b/) |
 | **Portfolio** | [debojyotidmdev.vercel.app](https://debojyotidmdev.vercel.app) |
 | **Email** | [debojyotidm4@gmail.com](mailto:debojyotidm4@gmail.com) |
 | **GitHub** | [github.com/debojyoti10CC](https://github.com/debojyoti10CC) |
