@@ -1,6 +1,6 @@
 # Hi 👋, I'm Debojyoti De Majumder
 
-## 🚀 Tech Enthusiast | Aspiring AI/ML Engineer | Robotics & Web3 Developer
+##  Tech Enthusiast | Aspiring AI/ML Engineer | Robotics & Web3 Developer
 
 ### 🏫 Education
 | Institution | Degree/Course | Duration | Details |
@@ -11,11 +11,11 @@
 ---
 
 ### 📌 About Me
-- 💡 Tech enthusiast with proven experience in **AI, robotics, Web3, and full-stack development**.
-- 🎯 Known for being highly **dedicated and work-driven** in building impactful, future-ready solutions.
-- 💻 Currently working on **AI-driven Crime Detection System, AgroTech AI Platform, and Autonomous Robotics**.
-- 🤖 Passionate about **AI, Robotics, and IoT-integrated Smart Solutions**.
-- 🏆 Proven **hackathons performer and event organizer** with leadership experience.
+-  Tech enthusiast with proven experience in **AI, robotics, Web3, and full-stack development**.
+-  Known for being highly **dedicated and work-driven** in building impactful, future-ready solutions.
+-  Currently working on **AI-driven Crime Detection System, AgroTech AI Platform, and Autonomous Robotics**.
+-  Passionate about **AI, Robotics, and IoT-integrated Smart Solutions**.
+-  Proven **hackathons performer and event organizer** with leadership experience.
 
 ---
 
@@ -76,7 +76,7 @@
 ### 🌎 Connect with Me
 | Platform | Link |
 | :--- | :--- |
-| **LinkedIn** | [linkedin.com/in/Debojyoti De Majumder](https://linkedin.com/in/Debojyoti De Majumder) |
+| **LinkedIn** | [Debojyoti De Majumder](https://linkedin.com/in/Debojyoti De Majumder) |
 | **Portfolio** | [debojyotidmdev.vercel.app](https://debojyotidmdev.vercel.app) |
 | **Email** | [debojyotidm4@gmail.com](mailto:debojyotidm4@gmail.com) |
 | **GitHub** | [github.com/debojyoti10CC](https://github.com/debojyoti10CC) |
