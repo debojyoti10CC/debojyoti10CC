@@ -13,7 +13,6 @@
 ### 📌 About Me
 -  Tech enthusiast with proven experience in **AI, robotics, Web3, and full-stack development**.
 -  Known for being highly **dedicated and work-driven** in building impactful, future-ready solutions.
--  Currently working on **AI-driven Crime Detection System, AgroTech AI Platform, and Autonomous Robotics**.
 -  Passionate about **AI, Robotics, and IoT-integrated Smart Solutions**.
 -  Proven **hackathons performer and event organizer** with leadership experience.
 
