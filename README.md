@@ -25,6 +25,7 @@
 | **Mindpal** | VR, Cognitive Training, AI | An immersive VR platform for **cognitive training, stress relief, and mental wellness** using gamified simulations and neurofeedback environments. |
 | **Xencruit** | AI, Computer Vision, NLP | An AI-driven platform for **real-time interview analysis** that evaluates facial expressions, speech tone, engagement, and confidence. |
 | **AlgotimeLock** | Web3, Algorand Smart Contract | A **trustless freelance escrow vault on Algorand** where funds unlock only after project completion or arbiter approval. |
+| **AEGIS Smart Protocol** | Agentic AI, Blockchain | AI Agents Powering Trustless Disaster Relief |
 
 ---
 
