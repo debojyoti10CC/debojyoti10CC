@@ -63,13 +63,7 @@
     * Content Lead at Algozenith IEM and Website Creator for IEM Comicverse.
 * **Contributions & Exhibitions:** Active contributor to GSSOC, participant in IIT Tech Exhibition, and rated highly (3.9/5) at IDE Bootcamp Ranchi.
 
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=debojyoti10CC&show_icons=true&count_private=true&theme=dracula" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=debojyoti10CC&layout=compact&langs_count=5&theme=dracula" height="150" alt="Most Used Languages"/>
-</div>
+>
 
 ---
 
