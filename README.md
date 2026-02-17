@@ -52,13 +52,15 @@
 
 ### 🏆 Achievements & Leadership
 * **Hackathons Success:**
+    * **3x** hackathon wins.
     * **Most Innovative** award at Hack Synthesis 2.0.
     * **1st Runner up** award at ICYIM 2025.
+    * **2nd Runner up** award at Tech Triad hackathon 2026.
     * **Ranked 35th/2000+** teams at DevFest AI 2024.
-    * Finalist at Kshitij IIT Kharagpur.
+    * Finalist at AICTE IDE Bootcamp Ranchi.
     * Participant in Algorand Buildstation, Team1 Avalanche, and more.
 * **Leadership Roles:**
-    * Organizer for Smart Make-A-Thon.
+    * Organizer for Smart Make-A-Thon, Impetus, Diversion 2k26.
     * Core Team member for Drone Development Challenge & GDG 2025-26.
     * Content Lead at Algozenith IEM and Website Creator for IEM Comicverse.
 * **Contributions & Exhibitions:** Active contributor to GSSOC, participant in IIT Tech Exhibition, and rated highly (3.9/5) at IDE Bootcamp Ranchi.
