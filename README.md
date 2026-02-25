@@ -2,7 +2,7 @@
 
 ##  Tech Enthusiast | Aspiring AI/ML Engineer | Robotics & Web3 Developer   
 
-### 🏫 Education
+### 🏫 Education 
 | Institution | Degree/Course | Duration | Details | 
 | :--- | :--- | :--- | :--- |
 | **Institute of Engineering and Management** (IEM) | B.Tech in Computer Science-AI | Jul 2024 - Jun 2028 | CGPA: 9.013. Coursework: Web Dev, AI, Gen AI, Web 3. |
