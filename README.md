@@ -1,6 +1,6 @@
 # Hi 👋, I'm Debojyoti De Majumder   
 
-##  Tech Enthusiast | Aspiring AI/ML Engineer | Robotics & Web3 Developer   
+##  Tech Enthusiast | Aspiring AI/ML Engineer | Robotics & Web3 Developer    
 
 ### 🏫 Education  
 | Institution | Degree/Course | Duration | Details | 
