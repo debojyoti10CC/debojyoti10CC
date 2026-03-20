@@ -34,8 +34,7 @@
 | **Languages** | C++, C, Python, Javascript, React JS, Next JS, Mongo DB, SQL |
 | **AI/ML & Data** | Jupyter Notebook, Google Colab, Matlab, Power BI |
 | **Web3 & Cloud** | Firebase, Docker, Google Cloud, Metamask, Core Wallet, MCP |
-| **Robotics/IoT**| Raspberry Pi |
-| **Version Control** | Git, Github |
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
