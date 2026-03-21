@@ -13,8 +13,7 @@
 ### 📌 About Me
 -  Tech enthusiast with proven experience in **AI, robotics, Web3, and full-stack development**.
 -  Known for being highly **dedicated and work-driven** in building impactful, future-ready solutions.
--  Passionate about **AI, Robotics, and IoT-integrated Smart Solutions**.
--  Proven **hackathons performer and event organizer** with leadership experience.
+
 
 ---
 
