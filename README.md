@@ -69,7 +69,7 @@
 
 ---
 
-### 🌎 Connect with Me
+###  Connect with Me
 | Platform | Link |
 | :--- | :--- |
 | **LinkedIn** | [Debojyoti De Majumder](https://www.linkedin.com/in/debojyoti-de-majumder-48052b30b/) |
