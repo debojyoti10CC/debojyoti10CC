@@ -28,7 +28,7 @@
 
 ---
 
-### 🛠️ Technologies & Skills
+###  Technologies & Skills
 | Category | Skills & Tools |
 | :--- | :--- |
 | **Languages** | C++, C, Python, Javascript, React JS, Next JS, Mongo DB, SQL |
