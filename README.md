@@ -1,4 +1,4 @@
-# Hi 👋, I'm Debojyoti De Majumder
+# Hi 👋, I'm Debojyoti
 
 ## Builder in AI Infra & Web3 | Developer Growth | Community Founder
 
