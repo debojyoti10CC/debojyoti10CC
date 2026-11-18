@@ -45,6 +45,10 @@
 | :--- | :--- | :--- |
 | **vercel/workflow** | [[web-shared] Copy BigInt values as decimal strings instead of [object Object]](https://github.com/vercel/workflow/pull/5517) | ✅ Merged |
 | **AOSSIE-Org/Rein** | [refactor: isolate connection message routing](https://github.com/AOSSIE-Org/Rein/pull/413) | ✅ Merged |
+| **h3js/h3** | [fix(handler): don't share pending load across lazy handler requests](https://github.com/h3js/h3/pull/1668) | 🟡 Open |
+| **sveltejs/acorn-typescript** | [fix: accept contextual keywords as labels and async arrow params](https://github.com/sveltejs/acorn-typescript/pull/176) | 🟡 Open |
+| **rolldown/tsdown** | [fix(entry): sort glob entries for deterministic output](https://github.com/rolldown/tsdown/pull/1137) | 🟡 Open |
+| **unjs/unstorage** | [fix(cloudflare-r2-binding): paginate list and batch delete past 1000 objects](https://github.com/unjs/unstorage/pull/881) | 🟡 Open |
 | **Shopify/hydrogen** | [fix(hydrogen): refresh a stale cache entry once per key while a refresh is in flight](https://github.com/Shopify/hydrogen/pull/4389) | 🟡 Open |
 | **sveltejs/eslint-plugin-svelte** | [fix(no-top-level-browser-globals): recognize aliased and destructured browser guards](https://github.com/sveltejs/eslint-plugin-svelte/pull/1736) | 🟡 Open |
 | **Graphify-Labs/graphify** | [feat(serve): add MCP tool annotations and server instructions](https://github.com/Graphify-Labs/graphify/pull/5300) | 🟡 Open |
@@ -64,7 +68,7 @@
 | **OpenZeppelin/openzeppelin-community-contracts** | [WormholeGatewayAdapter: use the source chain as refundChain](https://github.com/OpenZeppelin/openzeppelin-community-contracts/pull/322) | 🟡 Open |
 | **keep-starknet-strange/awesome-starkzap** | [Starkmatch Project](https://github.com/keep-starknet-strange/awesome-starkzap/pull/38) | 🟡 Open |
 
-<sub>2 merged · 20 total · updated automatically</sub>
+<sub>2 merged · 24 total · updated automatically</sub>
 <!-- OSS-PRS:END -->
 
 ---
