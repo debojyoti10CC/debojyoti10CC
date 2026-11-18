@@ -40,16 +40,32 @@
 ---
 
 ### 🔀 Open Source Contributions
+<!-- OSS-PRS:START -->
 | Repository | Pull Request | Status |
 | :--- | :--- | :--- |
+| **vercel/workflow** | [[web-shared] Copy BigInt values as decimal strings instead of [object Object]](https://github.com/vercel/workflow/pull/5517) | ✅ Merged |
 | **AOSSIE-Org/Rein** | [refactor: isolate connection message routing](https://github.com/AOSSIE-Org/Rein/pull/413) | ✅ Merged |
-| **OpenZeppelin/openzeppelin-community-contracts** | [HybridProxy: handle implementations with a non-reverting fallback](https://github.com/OpenZeppelin/openzeppelin-community-contracts/pull/323) | 🟡 Open |
-| **OpenZeppelin/openzeppelin-community-contracts** | [WormholeGatewayAdapter: use the source chain as refundChain](https://github.com/OpenZeppelin/openzeppelin-community-contracts/pull/322) | 🟡 Open |
-| **Uniswap/sdks** | [fix(uniswapx-sdk): make the package loadable from Node ESM](https://github.com/Uniswap/sdks/pull/791) | 🟡 Open |
-| **category-labs/monad-bft** | [monad-rpc: support disableCode and disableStorage in prestateTracer](https://github.com/category-labs/monad-bft/pull/3359) | 🟡 Open |
+| **Shopify/hydrogen** | [fix(hydrogen): refresh a stale cache entry once per key while a refresh is in flight](https://github.com/Shopify/hydrogen/pull/4389) | 🟡 Open |
+| **sveltejs/eslint-plugin-svelte** | [fix(no-top-level-browser-globals): recognize aliased and destructured browser guards](https://github.com/sveltejs/eslint-plugin-svelte/pull/1736) | 🟡 Open |
+| **Graphify-Labs/graphify** | [feat(serve): add MCP tool annotations and server instructions](https://github.com/Graphify-Labs/graphify/pull/5300) | 🟡 Open |
+| **Graphify-Labs/graphify** | [fix(rcfile): parse demote_docs and query_demote_docs from .graphifyrc](https://github.com/Graphify-Labs/graphify/pull/5299) | 🟡 Open |
+| **microsoft/vscode-python-debugger** | [Fix legacy resolver dropping .exe suffix on Windows](https://github.com/microsoft/vscode-python-debugger/pull/1151) | 🟡 Open |
+| **bitcoindevkit/bdk-sp** | [fix(send): enforce BIP352 K_MAX per-scan-key recipient limit](https://github.com/bitcoindevkit/bdk-sp/pull/80) | 🟡 Open |
+| **bitcoindevkit/bdk** | [fix(esplora): stop full_scan at stop_gap with parallel requests](https://github.com/bitcoindevkit/bdk/pull/2472) | 🟡 Open |
+| **wormhole-foundation/wormhole-sdk-ts** | [fix(connect): reject expired quotes in AutomaticPorticoRoute.initiate](https://github.com/wormhole-foundation/wormhole-sdk-ts/pull/1055) | 🟡 Open |
+| **wevm/incur** | [fix(cli): clamp past-end --token-offset in truncation footer](https://github.com/wevm/incur/pull/296) | 🟡 Open |
 | **solana-foundation/pay** | [fix(gate): advertise the request URL as x402 resource.url](https://github.com/solana-foundation/pay/pull/549) | 🟡 Open |
 | **solana-foundation/pay** | [fix(pay): emit index.d.cts so CommonJS consumers resolve types](https://github.com/solana-foundation/pay/pull/548) | 🟡 Open |
+| **category-labs/monad-bft** | [monad-rpc: support disableCode and disableStorage in prestateTracer](https://github.com/category-labs/monad-bft/pull/3359) | 🟡 Open |
+| **wevm/vocs** | [fix: skip badge text in heading slugs and Markdown output](https://github.com/wevm/vocs/pull/707) | 🟡 Open |
 | **wevm/vocs** | [fix: only emit &lt;base&gt; tag when head.base is set](https://github.com/wevm/vocs/pull/706) | 🟡 Open |
+| **Uniswap/sdks** | [fix(uniswapx-sdk): make the package loadable from Node ESM](https://github.com/Uniswap/sdks/pull/791) | 🟡 Open |
+| **OpenZeppelin/openzeppelin-community-contracts** | [HybridProxy: handle implementations with a non-reverting fallback](https://github.com/OpenZeppelin/openzeppelin-community-contracts/pull/323) | 🟡 Open |
+| **OpenZeppelin/openzeppelin-community-contracts** | [WormholeGatewayAdapter: use the source chain as refundChain](https://github.com/OpenZeppelin/openzeppelin-community-contracts/pull/322) | 🟡 Open |
+| **keep-starknet-strange/awesome-starkzap** | [Starkmatch Project](https://github.com/keep-starknet-strange/awesome-starkzap/pull/38) | 🟡 Open |
+
+<sub>2 merged · 20 total · updated automatically</sub>
+<!-- OSS-PRS:END -->
 
 ---
 
