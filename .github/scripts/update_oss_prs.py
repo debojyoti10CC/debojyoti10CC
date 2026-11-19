@@ -23,6 +23,10 @@ README = os.environ.get("README_PATH", "README.md")
 # and personal repos.
 MIN_STARS = int(os.environ.get("MIN_STARS", "20"))
 # Repository names matching this are skipped (e.g. Hacktoberfest practice repos).
+# PRs to leave out of the table even though they are open.
+EXCLUDE_URLS = {
+    "https://github.com/keep-starknet-strange/awesome-starkzap/pull/38",
+}
 SKIP_REPO = re.compile(os.environ.get("SKIP_REPO_REGEX", r"hacktober|hactober|pull-a-thon"), re.I)
 START, END = "<!-- OSS-PRS:START -->", "<!-- OSS-PRS:END -->"
 
@@ -73,6 +77,8 @@ def build_table() -> str:
         if pr["state"] == "closed" and not merged:
             continue
         if SKIP_REPO.search(repo) or stars(repo) < MIN_STARS:
+            continue
+        if pr["html_url"] in EXCLUDE_URLS:
             continue
         if merged:
             status, order = "✅ Merged", 0
