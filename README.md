@@ -45,6 +45,7 @@
 | :--- | :--- | :--- |
 | **vercel/workflow** | [[web-shared] Copy BigInt values as decimal strings instead of [object Object]](https://github.com/vercel/workflow/pull/5517) | ✅ Merged |
 | **AOSSIE-Org/Rein** | [refactor: isolate connection message routing](https://github.com/AOSSIE-Org/Rein/pull/413) | ✅ Merged |
+| **AOSSIE-Org/Rein** | [fix(input): keep pinch zoom independent of invertScroll and accumulate small pinch deltas](https://github.com/AOSSIE-Org/Rein/pull/507) | 🟡 Open |
 | **Graphify-Labs/graphify** | [test(security): add direct tests for SSRF-guarded connection classes](https://github.com/Graphify-Labs/graphify/pull/5336) | 🟡 Open |
 | **h3js/h3** | [fix(handler): don't share pending load across lazy handler requests](https://github.com/h3js/h3/pull/1668) | 🟡 Open |
 | **sveltejs/acorn-typescript** | [fix: accept contextual keywords as labels and async arrow params](https://github.com/sveltejs/acorn-typescript/pull/176) | 🟡 Open |
@@ -67,7 +68,7 @@
 | **OpenZeppelin/openzeppelin-community-contracts** | [HybridProxy: handle implementations with a non-reverting fallback](https://github.com/OpenZeppelin/openzeppelin-community-contracts/pull/323) | 🟡 Open |
 | **OpenZeppelin/openzeppelin-community-contracts** | [WormholeGatewayAdapter: use the source chain as refundChain](https://github.com/OpenZeppelin/openzeppelin-community-contracts/pull/322) | 🟡 Open |
 
-<sub>2 merged · 23 total · updated automatically</sub>
+<sub>2 merged · 24 total · updated automatically</sub>
 <!-- OSS-PRS:END -->
 
 ---
