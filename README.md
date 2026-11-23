@@ -53,7 +53,6 @@
 | **Shopify/hydrogen** | [fix(hydrogen): refresh a stale cache entry once per key while a refresh is in flight](https://github.com/Shopify/hydrogen/pull/4389) | 🟡 Open |
 | **sveltejs/eslint-plugin-svelte** | [fix(no-top-level-browser-globals): recognize aliased and destructured browser guards](https://github.com/sveltejs/eslint-plugin-svelte/pull/1736) | 🟡 Open |
 | **Graphify-Labs/graphify** | [feat(serve): add MCP tool annotations and server instructions](https://github.com/Graphify-Labs/graphify/pull/5300) | 🟡 Open |
-| **Graphify-Labs/graphify** | [fix(rcfile): parse demote_docs and query_demote_docs from .graphifyrc](https://github.com/Graphify-Labs/graphify/pull/5299) | 🟡 Open |
 | **microsoft/vscode-python-debugger** | [Fix legacy resolver dropping .exe suffix on Windows](https://github.com/microsoft/vscode-python-debugger/pull/1151) | 🟡 Open |
 | **bitcoindevkit/bdk-sp** | [fix(send): enforce BIP352 K_MAX per-scan-key recipient limit](https://github.com/bitcoindevkit/bdk-sp/pull/80) | 🟡 Open |
 | **bitcoindevkit/bdk** | [fix(esplora): stop full_scan at stop_gap with parallel requests](https://github.com/bitcoindevkit/bdk/pull/2472) | 🟡 Open |
@@ -68,7 +67,7 @@
 | **OpenZeppelin/openzeppelin-community-contracts** | [HybridProxy: handle implementations with a non-reverting fallback](https://github.com/OpenZeppelin/openzeppelin-community-contracts/pull/323) | 🟡 Open |
 | **OpenZeppelin/openzeppelin-community-contracts** | [WormholeGatewayAdapter: use the source chain as refundChain](https://github.com/OpenZeppelin/openzeppelin-community-contracts/pull/322) | 🟡 Open |
 
-<sub>3 merged · 24 total · updated automatically</sub>
+<sub>3 merged · 23 total · updated automatically</sub>
 <!-- OSS-PRS:END -->
 
 ---
