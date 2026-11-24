@@ -41,6 +41,10 @@
 | **microsoft/vscode-python-debugger** | [Fix legacy resolver dropping .exe suffix on Windows](https://github.com/microsoft/vscode-python-debugger/pull/1151) | ✅ Merged |
 | **wevm/incur** | [fix(cli): clamp past-end --token-offset in truncation footer](https://github.com/wevm/incur/pull/296) | ✅ Landed (merged via #319) |
 | **AOSSIE-Org/Rein** | [refactor: isolate connection message routing](https://github.com/AOSSIE-Org/Rein/pull/413) | ✅ Merged |
+| **pyth-network/pyth-crosschain** | [fix(staking): don't fail page load when publisher caps request fails](https://github.com/pyth-network/pyth-crosschain/pull/4102) | 🟡 Open |
+| **MetaMask/snaps** | [fix: Declare runtime dependencies in `dependencies`](https://github.com/MetaMask/snaps/pull/4198) | 🟡 Open |
+| **MetaMask/core** | [fix(eth-json-rpc-middleware): pass EIP-1898 object block selectors through block-cache and retry-on-empty](https://github.com/MetaMask/core/pull/11729) | 🟡 Open |
+| **near/near-api-js** | [fix: skip final sleep in exponentialBackoff after last attempt](https://github.com/near/near-api-js/pull/2068) | 🟡 Open |
 | **Graphify-Labs/graphify** | [fix(python): scope function-local imports to their function (#5421)](https://github.com/Graphify-Labs/graphify/pull/5428) | 🟡 Open |
 | **Graphify-Labs/graphify** | [test(security): add direct tests for SSRF-guarded connection classes](https://github.com/Graphify-Labs/graphify/pull/5336) | 🟡 Open |
 | **h3js/h3** | [fix(handler): don't share pending load across lazy handler requests](https://github.com/h3js/h3/pull/1668) | 🟡 Open |
@@ -61,7 +65,7 @@
 | **OpenZeppelin/openzeppelin-community-contracts** | [HybridProxy: handle implementations with a non-reverting fallback](https://github.com/OpenZeppelin/openzeppelin-community-contracts/pull/323) | 🟡 Open |
 | **OpenZeppelin/openzeppelin-community-contracts** | [WormholeGatewayAdapter: use the source chain as refundChain](https://github.com/OpenZeppelin/openzeppelin-community-contracts/pull/322) | 🟡 Open |
 
-<sub>6 merged · 25 total · updated automatically</sub>
+<sub>6 merged · 29 total · updated automatically</sub>
 <!-- OSS-PRS:END -->
 
 ---
