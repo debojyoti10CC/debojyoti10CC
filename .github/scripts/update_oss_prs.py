@@ -27,6 +27,13 @@ MIN_STARS = int(os.environ.get("MIN_STARS", "20"))
 EXCLUDE_URLS = {
     "https://github.com/keep-starknet-strange/awesome-starkzap/pull/38",
 }
+# PRs closed without a merge whose change still landed (e.g. cherry-picked, or folded into
+# another PR). Format: "owner/repo#123=note,owner/repo#456=note".
+LANDED = dict(
+    item.split("=", 1)
+    for item in os.environ.get("LANDED_PRS", "").split(",")
+    if "=" in item
+)
 SKIP_REPO = re.compile(os.environ.get("SKIP_REPO_REGEX", r"hacktober|hactober|pull-a-thon"), re.I)
 START, END = "<!-- OSS-PRS:START -->", "<!-- OSS-PRS:END -->"
 
@@ -74,7 +81,8 @@ def build_table() -> str:
     for pr in prs:
         repo = pr["repository_url"].split("/repos/", 1)[1]
         merged = bool(pr.get("pull_request", {}).get("merged_at"))
-        if pr["state"] == "closed" and not merged:
+        landed = LANDED.get(f"{repo}#{pr['number']}")
+        if pr["state"] == "closed" and not merged and not landed:
             continue
         if SKIP_REPO.search(repo) or stars(repo) < MIN_STARS:
             continue
@@ -82,6 +90,8 @@ def build_table() -> str:
             continue
         if merged:
             status, order = "✅ Merged", 0
+        elif landed:
+            status, order = f"✅ Landed ({landed})", 0
         elif pr.get("draft"):
             status, order = "📝 Draft", 2
         else:
