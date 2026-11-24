@@ -1,6 +1,5 @@
 # Hi 👋, I'm Debojyoti
 
----
 
 ### 📌 About Me
 -  Builder in **AI infrastructure and Web3**: I ship live on-chain products and grow the developer communities around them.
