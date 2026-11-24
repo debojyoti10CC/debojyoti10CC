@@ -1,13 +1,5 @@
 # Hi 👋, I'm Debojyoti
 
-## Builder in AI Infra & Web3 | Developer Growth | Community Founder
-
-###  Education
-| Institution | Degree/Course | Duration | Details |
-| :--- | :--- | :--- | :--- |
-| **Institute of Engineering and Management** (IEM) | B.Tech in Computer Science (AI) | Jul 2024 - Jun 2028 | CGPA: 9.01. Coursework: Web Dev, AI, Gen AI, Web 3. |
-| **Indian Institute of Technology Patna** (IITP) | BS in Computer Science & Data Analytics | Jul 2024 - Jun 2027 | CGPA: 8.91. Hybrid program, pursued alongside the B.Tech. Coursework: Statistics, ML Techniques, Data Analysis. |
-
 ---
 
 ### 📌 About Me
