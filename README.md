@@ -57,14 +57,13 @@
 | **wormhole-foundation/wormhole-sdk-ts** | [fix(connect): reject expired quotes in AutomaticPorticoRoute.initiate](https://github.com/wormhole-foundation/wormhole-sdk-ts/pull/1055) | 🟡 Open |
 | **solana-foundation/pay** | [fix(gate): advertise the request URL as x402 resource.url](https://github.com/solana-foundation/pay/pull/549) | 🟡 Open |
 | **solana-foundation/pay** | [fix(pay): emit index.d.cts so CommonJS consumers resolve types](https://github.com/solana-foundation/pay/pull/548) | 🟡 Open |
-| **category-labs/monad-bft** | [monad-rpc: support disableCode and disableStorage in prestateTracer](https://github.com/category-labs/monad-bft/pull/3359) | 🟡 Open |
 | **wevm/vocs** | [fix: skip badge text in heading slugs and Markdown output](https://github.com/wevm/vocs/pull/707) | 🟡 Open |
 | **wevm/vocs** | [fix: only emit &lt;base&gt; tag when head.base is set](https://github.com/wevm/vocs/pull/706) | 🟡 Open |
 | **Uniswap/sdks** | [fix(uniswapx-sdk): make the package loadable from Node ESM](https://github.com/Uniswap/sdks/pull/791) | 🟡 Open |
 | **OpenZeppelin/openzeppelin-community-contracts** | [HybridProxy: handle implementations with a non-reverting fallback](https://github.com/OpenZeppelin/openzeppelin-community-contracts/pull/323) | 🟡 Open |
 | **OpenZeppelin/openzeppelin-community-contracts** | [WormholeGatewayAdapter: use the source chain as refundChain](https://github.com/OpenZeppelin/openzeppelin-community-contracts/pull/322) | 🟡 Open |
 
-<sub>6 merged · 29 total · updated automatically</sub>
+<sub>6 merged · 28 total · updated automatically</sub>
 <!-- OSS-PRS:END -->
 
 ---
